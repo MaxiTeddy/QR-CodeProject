@@ -1,0 +1,38 @@
+
+body{
+    background-color: #d6e2f0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  
+}
+
+.page{
+  background-color: #ffffff;
+  width: 250px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin: -200px 0 0 -120px;
+  padding: 8px 0px 10px 10px;
+   border-radius: 13px;
+}
+
+.image{
+  border-radius: inherit;
+  margin: auto;
+  width: 96%;
+} 
+
+.page h1, p{
+font-size: medium;
+margin: 10px 25px;
+text-align: center;
+}
+
+.page h1{
+color:hsl(218, 44%, 22%);
+}
+
+.page p{
+font-size: smaller;
+padding: 20px 0 20px 0;
+}
