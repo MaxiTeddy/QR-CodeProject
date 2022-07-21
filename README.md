@@ -60,16 +60,16 @@ Can't use percentage(%) for the measurement of width when you want to make the p
 
 ### Useful resources
 
-- [Saogiji](https://github.com/saogiji) - He helped me through it, checked hhis bio if you have a problem.
+- [Saogiji](https://github.com/saogiji) - He helped me through it, checked his bio if you have a problem.
 - [Stack Overflow](https://stackoverflow.com/questions/356809/best-way-to-center-a-div-on-a-page-vertically-and-horizontally) - I learnt how to make a responsive page from here.
 
 
 ## Author
 
 - Website - [Max Ogiji](https://github.com/MaxiTeddy)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@MaxiTeddy](https://www.frontendmentor.io/profile/yourusername)
 - Twitter - [@Maxogiji](https://www.twitter.com/maxogiji)
 
 ## Acknowledgments
 
-I want to thank [Saogiji](https://github.com/saogiji) for his help and guidance throughtout this project.
+I want to thank [Saogiji](https://github.com/saogiji) for his help and guidance through out this project.
