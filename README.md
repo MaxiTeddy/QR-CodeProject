@@ -25,8 +25,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Click this for the solution](https://github.com/MaxiTeddy/QR-CodeProject)
+- Live Site URL: [Here is the outcome of the code](https://your-live-site-url.com)
 
 ## My process
 
@@ -39,7 +39,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 How to make a page responsive using HTML and CSS
 
-To see how you can add code snippets, see below:
+Here is a simple example of the code:
 
 ```
 .page{
