@@ -26,7 +26,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 - Solution URL: [Click this for the solution](https://github.com/MaxiTeddy/QR-CodeProject)
-- Live Site URL: [Here is the outcome of the code](https://drive.google.com/folderview?id=[wYnUFbGX55rxi8-ONS3_5BDD3TzGsz])
+- Live Site URL: [Here is the outcome of the code](https://drive.google.com/folderview?id=wYnUFbGX55rxi8-ONS3_5BDD3TzGsz)https://drive.google.com/file/d/14_wYnUFbGX55rxi8-ONS3_5BDD3TzGsz/view?usp=sharing
 
 ## My process
 
